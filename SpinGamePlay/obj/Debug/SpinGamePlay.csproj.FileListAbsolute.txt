@@ -1,0 +1,303 @@
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\SpinGamePlay.exe.config
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\SpinGamePlay.exe
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\SpinGamePlay.pdb
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.Form1.resources
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.exe
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.pdb
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.exe.licenses
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Dashboard.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Dashboard.v22.2.Win.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Map.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.TreeMap.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Win.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraMap.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraTreeMap.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Dashboard.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Dashboard.v22.2.Win.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Map.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.TreeMap.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Win.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraMap.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraTreeMap.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.fHuongDan.resources
+C:\Users\ADMIN\Desktop\SpinGamePlay\SpinGamePlay\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\SpinGamePlay.exe.config
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\SpinGamePlay.exe
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\SpinGamePlay.pdb
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Dashboard.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Dashboard.v22.2.Win.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Map.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.TreeMap.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Win.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraMap.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraTreeMap.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Dashboard.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Dashboard.v22.2.Win.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Map.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.TreeMap.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Win.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraMap.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraTreeMap.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.fHuongDan.resources
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.Form1.resources
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.exe.licenses
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.exe
+C:\Users\ADMIN\Desktop\Project Game\Spin Game Play\SpinGamePlay\SpinGamePlay\obj\Debug\SpinGamePlay.pdb
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\SpinGamePlay.exe.config
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\SpinGamePlay.exe
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\SpinGamePlay.pdb
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Dashboard.v22.2.Core.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Dashboard.v22.2.Win.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.DataAccess.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Map.v22.2.Core.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.TreeMap.v22.2.Core.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Xpo.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.UI.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Win.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraMap.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraReports.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraTreeMap.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.CodeParser.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Dashboard.v22.2.Core.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Dashboard.v22.2.Win.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.DataAccess.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Map.v22.2.Core.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.TreeMap.v22.2.Core.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Xpo.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.UI.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Presets.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraGauges.v22.2.Win.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraMap.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraReports.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraTreeMap.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraTreeMap.v22.2.UI.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\obj\Debug\SpinGamePlay.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\obj\Debug\SpinGamePlay.fHuongDan.resources
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\obj\Debug\SpinGamePlay.Form1.resources
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\obj\Debug\SpinGamePlay.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\obj\Debug\SpinGamePlay.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\obj\Debug\SpinGamePlay.exe.licenses
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\obj\Debug\SpinGamePlay.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\obj\Debug\SpinGamePlay.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\obj\Debug\SpinGamePlay.exe
+C:\Users\ADMIN\Downloads\Spin-Game-main\SpinGamePlay\obj\Debug\SpinGamePlay.pdb
